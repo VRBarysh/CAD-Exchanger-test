@@ -1,5 +1,5 @@
 # CAD-Exchanger-test
-A test case with a simple class structure and a few tasks to demonstrate STL knoweledge
+A test case with a simple class structure and a few tasks to demonstrate basic STL knowledge
 
 * 3DCurveDLL is a folder with the .dll Visual Studio project
 * "CAD Exchanger test with dll" is a folder with the main Visual Studio project that uses the .dll
