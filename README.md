@@ -6,6 +6,7 @@ A test case with a simple class structure and a few tasks to demonstrate basic S
 * "CAD Exchanger test with dll.exe" with 3DCurveDLL.dll are the resuls of those projects that work together
 * Parametrized3DCurveDLL.h with Parametrized3DCurveDLL.cpp are the main source code files of the .dll
 * "CAD Exchanger test with dll.cpp" is the main source code file of the .exe
+
 This compiles with MS Visual Studio 22 with C++ v20 and OpenMP support options.
 
 "CAD Exchanger test with dll.exe" performs a number of tasks: 
